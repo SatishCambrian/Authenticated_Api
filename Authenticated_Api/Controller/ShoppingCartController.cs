@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using AuthenticatedClassLibrary.Model.Data;
 
-//namespace Authenticated.Controllersgit 
+namespace Authenticated.Controllersgit 
 {
     [Authorize]
     public class ShoppingCartController : Controller
