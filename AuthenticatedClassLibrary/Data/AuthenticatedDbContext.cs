@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-//namespace YourProject.Data
+namespace YourProject.Data
 {
     public class SecurityDbContext : DbContext
     {

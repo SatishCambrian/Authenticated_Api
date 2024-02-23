@@ -1,4 +1,4 @@
-namespace AuthenticatedClassLibrary;
+namespace AuthenticatedClassLibrary.Model;
 
 public class ShoppingCart{
     public int Id { get; set; }
